@@ -1,0 +1,68 @@
+.flexcards{
+    display: flex;
+    border: 1px dotted black;
+    justify-content: center;
+
+}
+
+.first{
+    border: 1px dotted red;
+    padding: 20px;
+    width: 20%;
+    text-align: center;
+    margin-right: 10px;
+    background-color: white;
+
+}
+
+.jscr{
+    width:105%;
+
+}
+
+.second{
+    border: 1px dotted red;
+    padding: 20px;
+    width: 20%;
+    text-align: center;
+    margin-right: 10px;
+    background-color: white;
+
+}
+
+.pthon{
+    width:90%;
+    margin-top: 15px;
+    margin-bottom: 44px;;
+}
+.third{
+    border: 1px dotted red;
+    padding: 20px;
+    width: 20%;
+    text-align: center;
+    background-color: white;
+    
+
+}
+
+.ccc{
+    width:90%;
+    margin-bottom: 17px;;
+}
+
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.partage{
+    display: flex;
+    justify-content: left;
+    border: 1px dotted red;
+
+}
+.youtube{
+    width:10%;
+
+}
